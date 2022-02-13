@@ -9,4 +9,4 @@
 - html5: data-attribute
 - css3: positioning, flexbox, perspective, backface-visibility, transitions
 
-### tutorial attributed to [FreeCodeCamp]("https://www.youtube.com/watch?v=ZniVgo8U7ek&t=1535s")
+tutorial attributed to [FreeCodeCamp](https://www.youtube.com/watch?v=ZniVgo8U7ek&t=1535sg)
