@@ -28,7 +28,7 @@ function flipCard(){
         firstCard.classList.remove("flip");
         secondCard.classList.remove("flip");
 
-         }, 1500);
+         }, 1510);
          
      }
    
